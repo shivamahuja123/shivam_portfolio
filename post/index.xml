@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Shivam Ahuja</title>
+    <link>https://shivamahuja123.github.io/shivam_portfolio/post/</link>
+    <description>Recent content in Projects on Shivam Ahuja</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Jul 2020 12:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://shivamahuja123.github.io/shivam_portfolio/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Flight Price Prediction</title>
+      <link>https://shivamahuja123.github.io/shivam_portfolio/post/chapter-3/</link>
+      <pubDate>Sat, 11 Apr 2020 11:13:32 -0400</pubDate>
+      
+      <guid>https://shivamahuja123.github.io/shivam_portfolio/post/chapter-3/</guid>
+      <description>Introduction The price of an airline ticket is affected by a number of factors, such as flight distance, purchasing time, fuel price, etc. Each carrier has its own proprietary rules and algorithms to set the price accordingly. Recent advance in Artificial Intelligence (AI) and Machine Learning (ML) makes it possible to infer such rules and model the price variation. The framework achieves a high prediction accuracy with 0.869 adjusted R squared score on the testing dataset Problem Variation and market trends?</description>
+    </item>
+    
+    <item>
+      <title>IPL Score Prediction</title>
+      <link>https://shivamahuja123.github.io/shivam_portfolio/post/chapter-2/</link>
+      <pubDate>Fri, 10 Jan 2020 11:00:59 -0400</pubDate>
+      
+      <guid>https://shivamahuja123.github.io/shivam_portfolio/post/chapter-2/</guid>
+      <description>Introduction: In Machine Learning, the problems are categorized into two groups mainly: Regression Problem and Classification problem. The Regression problem deals with the kind of problems having continuous values as output while in the Classification problem the outputs are categorical values. Since the output of score prediction is a continuous value, the problem which we are trying to solve is a Regression Problem problem(A kind of we perform sports analytics in this project).</description>
+    </item>
+    
+    <item>
+      <title>Research Paper</title>
+      <link>https://shivamahuja123.github.io/shivam_portfolio/post/chapter-1/</link>
+      <pubDate>Mon, 09 Dec 2019 10:58:08 -0400</pubDate>
+      
+      <guid>https://shivamahuja123.github.io/shivam_portfolio/post/chapter-1/</guid>
+      <description>Abstract Currently, Diabetes and the associated Diabetic Retinopathy (DR) instances are increasing at an alarming rate. Numerous previous research has focused on automated DR detection from fundus photography. The classification of severe cases of pathological indications in the eye has achieved over 90% accuracy. Still, the mild cases are challenging to detect due to CNN inability to identify the subtle features, discrimnative of disease. The data used (i.e. annotated fundus photographies) was obtained from 2 publicly available sources – Messidor and Kaggle.</description>
+    </item>
+    
+    <item>
+      <title>Customer Churn Modelling</title>
+      <link>https://shivamahuja123.github.io/shivam_portfolio/post/chapter-7/</link>
+      <pubDate>Fri, 14 Jun 2019 11:25:05 -0400</pubDate>
+      
+      <guid>https://shivamahuja123.github.io/shivam_portfolio/post/chapter-7/</guid>
+      <description>Introduction Customer Churn refers to the rate of customer attrition in a company or in simpler words speed at which customer leaves your company or service. Examples of customer churn includes Cancelation of a subscription • Closure of an account • Non-renewal of a contract or service agreement • Decision to shop at another store • Use another service provider Churn could happen due to many different reasons and churn analysis helps to identify the cause (and timing) of this churn opening up opportunities to implement effective retention strategies.</description>
+    </item>
+    
+    <item>
+      <title>transfer Learning car brand classification</title>
+      <link>https://shivamahuja123.github.io/shivam_portfolio/post/chapter-6/</link>
+      <pubDate>Sat, 14 Apr 2018 11:25:05 -0400</pubDate>
+      
+      <guid>https://shivamahuja123.github.io/shivam_portfolio/post/chapter-6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>transfer Learning malaria detection</title>
+      <link>https://shivamahuja123.github.io/shivam_portfolio/post/chapter-5/</link>
+      <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
+      
+      <guid>https://shivamahuja123.github.io/shivam_portfolio/post/chapter-5/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
